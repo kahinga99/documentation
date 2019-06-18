@@ -1,12 +1,12 @@
 # Welcome
 
-Open Collective is an online funding platform for open and transparent communities. We provide the tools to raise money and share your finances in full transparency.
+Open Collective is an online funding platform designed to enhance openness and transparency in communities. We provide the tools necessary for raising money and also for sharing a fully accountable financial report.
 
-This is the place to find all help and documentation related to Open Collective. It's a work in progress, so please feel free to give us feedback.
+This documentation contains all information related to Open Collective. It's a work in progress, so please feel free to give us feedback.
 
 To suggest changes, click the Github icon on any docs page and make a pull request. If you're not sure how to do that, see the [step-by-step guide](./#how-to-contribute-to-these-docs) at the bottom of this page.
 
-If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
+If you cannot find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or through our [Slack](https://opencollective.slack.com) channel.
 
 ## Overall FAQ
 
@@ -22,7 +22,7 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### How is it different from other platforms?
 
-[Open Collective is different.](product/comparison.md) It's fully transparent \(you can see where money comes from and where it goes\), and designed for ongoing communities, not individual creators or one-off campaigns.
+ Open Collective is fully transparent as you can see where money comes from and where it goes, and it is designed for ongoing communities, not individual creators or one-off campaigns.
 
 ### How much does it cost?
 
@@ -30,11 +30,11 @@ Open Collective is great for collaborative groups, like meetups, open source pro
 
 ### Does it work in my country?
 
-People can contribute from anywhere by credit card, with donations denominated in the [currency](product/currencies.md) of the Fiscal Host. Payouts work everywhere our payment providers, Stripe and Paypal, serve. 
+People can contribute from anywhere via credit card, with donations denominated in the [currency](product/currencies.md) of the Fiscal Host. Payouts work everywhere with our payment providers, Stripe and Paypal, serve. 
 
 ### Can I get a receipt for my donations?
 
-Yes! One main purpose of Open Collective is to provide unincorporated projects the legal and financial structures to provide [people](backers-and-sponsors/) receipts and invoices.
+Yes! Open Collective provides unincorporated projects with the legal and financial structures to provide receipts and invoices to [people](backers-and-sponsors/).
 
 ### Where can I learn more?
 
@@ -42,27 +42,27 @@ You've come to the right place! These docs explain the whole platform in detail.
 
 ### How can I contact you?
 
-Email [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://opencollective.slack.com).
+You can reach out to us through our email: [support@opencollective.com](mailto:support@opencollective.com) or by joining our [Slack](https://opencollective.slack.com) channel.
 
 ### How can I contribute?
 
-We are an open source project and run as an Open Collective ourselves. You can contribute [money](https://opencollective.com/opencollectiveinc), [code](http://github.com/opencollective) or [translations](https://crowdin.com/project/opencollective). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
+Open Collective is an open source project and you can contribute in one or more of the following ways; [money](https://opencollective.com/opencollectiveinc), [code](http://github.com/opencollective) or [translations](https://crowdin.com/project/opencollective). And we'd really love it if you [started your own Collective](https://opencollective.com/create) and contributed by growing the community!
 
-For more info about how you can contribute to Open Collective, check the [contributing page](https://docs.opencollective.com/help/about/contributing).
+For more info on how you can contribute to Open Collective, visit the [contributing page](https://docs.opencollective.com/help/about/contributing).
 
 ## How to contribute to these docs
 
-First of all, thank you! We really appreciate it. 
+First of all, thank you! We truly appreciate it. 
 
 This is a guide for people who are not familiar with editing files through GitHub repositories. If you are, feel free to use your own workflow.
 
-0\) Make sure you have a GitHub account and you're logged in.
+0\) Ensure you have a GitHub account and you're logged in.
 
 1\) Go to the docs page you want to edit and click the Github icon.
 
 ![](.gitbook/assets/screen-shot-2019-04-29-at-4.40.54-pm.png)
 
-2\) Click the edit icon \(pencil\) on the Github page that you will be sent to.
+2\) Click the edit icon \(pencil\) on the Github page that you will be redirected to.
 
 ![](.gitbook/assets/screen-shot-2019-04-29-at-4.42.55-pm.png)
 
